@@ -15,6 +15,7 @@ int main(int argc, const char * argv[]) {
         NSLog(@"what the hell");
         
         //insert someting
+        //conflict
     }
     return 0;
 }
